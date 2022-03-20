@@ -28,8 +28,8 @@
   ![image](https://user-images.githubusercontent.com/77819811/159175317-b69370ff-10fe-4528-9d49-f7187170b392.png)
 ## Considerações Finais 
   
-O projeto inteiro praticamente é puro Js, foi muito legal de trabalhar, com certeza minhas habilidades evoluiram muito fazendo esse jogo <br/>
-O código inteiro foi novo pra mim, diferente de web-sites, landing pages... que estou acostumado a fazer, isso foi muito diferente... <br/>
-Foi um desafio enorme, que com muita persistência terminei, e achei íncrivel, aprendi coisas novas, em cada projeto que eu faço aprendo algo diferente.<br/>
+O projeto inteiro praticamente é puro Js, mesmo que sejam coisas 'simples' e que eu já sei, minhas habilidades evoluiram muito fazendo esse jogo <br/>
+Foi muito legal de se fazer pois diferente de web-sites, landing pages... que estou acostumado a fazer, isso foi muito diferente... <br/>
+Foi um desafio enorme e divertido, achei íncrivel, aprendi coisas novas, em cada projeto que eu faço aprendo algo diferente.<br/>
 Programar é íncrivel ^^
 
