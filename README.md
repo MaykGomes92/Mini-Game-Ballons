@@ -14,7 +14,7 @@
 </div>
 
 ## Sobre o projeto
-* Projeto feito em Js Vannila, utilizando praticamente pura lógica de programação e códigos.
+* Projeto feito em Js puro, utilizando pura lógica de programação.
 * Para deixar mais dinâmico e divertido o jogo conta com níveis diferentes de dificuldades.
 * O jogo também salva a última pontuação que o usuário fez na partida, salvando os dados no LocalStorage.
   
