@@ -14,17 +14,12 @@
 </div>
 
 ## Sobre o projeto
-* Projeto feito em Js puro, utilizando pura lógica de programação.
+* Projeto feito em Js puro.
 * Para deixar mais dinâmico e divertido o jogo conta com níveis diferentes de dificuldades.
-* O jogo também salva a última pontuação que o usuário fez na partida, salvando os dados no LocalStorage.
+* O jogo também salva a última pontuação que o usuário fez na partida.
   
 ![image](https://user-images.githubusercontent.com/77819811/159174854-49811cba-e8c2-40e5-85b0-8e9689dea298.png)
 
 ## Projeto totalmente responsivo
 ![image](https://user-images.githubusercontent.com/77819811/159175283-aae45822-cd31-48b2-9f25-d2a0762744ac.png)
 ##
-O projeto inteiro praticamente é puro Js, mesmo que sejam coisas 'simples' e que eu já sei, minhas habilidades evoluiram muito fazendo esse jogo <br/>
-Foi muito legal de se fazer pois diferente de web-sites, landing pages... que estou acostumado a fazer, isso foi muito diferente... <br/>
-Foi um desafio enorme e divertido, achei íncrivel, aprendi coisas novas, em cada projeto que eu faço aprendo algo diferente.<br/>
-Programar é íncrivel ^^
-
