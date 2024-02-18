@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/mayk-gomes-11b86222b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-<a href='https://mini-game-ballons-priv.vercel.app/'>Visite o game</a>
+<a href='https://mini-game-ballons.vercel.app/'>Visite o game</a>
   
 ## Tecnologias Utilizadas
 <div style={display:'flex'}>
